@@ -1,0 +1,23 @@
+How does the internet work?
+-----------------------------
+    The internet is comprised of networks communicating with each other. The interesting thing I learned this unit is what makes a network.
+I had no idea that a network was just two or more computers being connected. As soon as I learned that it clicked in my head. Each computer within
+a specific network needs to communcate with eachother so they can achieve the goals of the users.
+
+    These localized netoworks of a few computers can't reach very far geographically. That is where routers and modems come in. A router is basically
+a command center, or a train station where each computer can enter and be connected to another computer within that routers radius. But theres 
+still limitations to what a single router can do, so what do we do? We connect routers to routers allowing more and more networks to communicate 
+with eachother! 
+------------------------------
+What happens when you click on a link?
+------------------------------
+    When you click on a link it initializes a get request to the server you are trying to reach. After that click a few things happen, it searches
+for the IP address that is connected to that domain name. That IP address is the specific id and port of the public website you're trying to
+reach. After the IP address is received, the html is sent to your browser and it starts to process it. HTML processes and runs asynchronously,
+which means that the code starts at the same time and each item finishes at a different time. Kind of like a footrace, everyone starts at the
+same time, but everyone finishes at different times.
+
+    Inside the HTML it is reaching the CSS files and the JavaScript files that are connected to it. All of this so the website will produce the 
+style and interactivity of the designer. Otherwise, it would look much like this page, of just words on a screen, pretty boring. However, it is
+very neccessary for a website to have the skeletal frame of just words on a screen! Otherwise it would just be shapes and colors. After all of
+the HTML, CSS, and JavaScript is done processing, the page renders and we are able to enjoy the websites we want to enjoy!   
